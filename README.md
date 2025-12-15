@@ -12,7 +12,7 @@ Projeto com fins exclusivamente educacionais, utilizado para praticar os conceit
 
 ## 📸 Preview 
 
-![Project Preview](preview.png)
+![Project Preview](preview.PNG)
 
 ## 🔗 Link do **[Projeto](https://leonardoftdev.github.io/projeto-portfolio)**
 
