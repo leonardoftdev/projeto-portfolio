@@ -10,6 +10,14 @@ Projeto com fins exclusivamente educacionais, utilizado para praticar os conceit
 ![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-concluido-brightgreen?style=for-the-badge)
 
+## 📸 Preview 
+
+![Project Preview](preview.png)
+
+## 🔗 Link do **[Projeto](https://leonardoftdev.github.io/projeto-portfolio)**
+
+https://leonardoftdev.github.io/projeto-portfolio/
+
 ## 📚 Aprendizados
 
 - Estruturas básicas de páginas
